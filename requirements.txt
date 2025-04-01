@@ -1,0 +1,7 @@
+langchain
+langchain-ollama
+langchain-openai
+langchain-chroma
+langchain-community
+langchain-core
+pandas
