@@ -5,4 +5,4 @@ langchain-chroma
 langchain-community
 langchain-core
 pandas
-vector
+vectors
